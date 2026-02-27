@@ -35,10 +35,10 @@ By the end of this laboratory experiment, students will be able to:
 
 ### D-H Parametric Table and Homogeneous Transformation Matrix
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cf093088-b7d0-4467-81ab-a8e1e648ae76" width="800" alt="Centered 6-DOF Kinematic Diagram">
+  <img src="https://github.com/user-attachments/assets/97635406-1806-4f3c-9ee7-545324ed489e" width="800" alt="Centered 6-DOF Kinematic Diagram">
 </div>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/a5af2490-e019-46ea-adf2-cff80ad8745a" width="800" alt="Centered 3-DOF Kinematic Diagram">
+  <img src="https://github.com/user-attachments/assets/a5af2490-e019-46ea-adf2-cff80ad8745a" width="800" alt="Centered 6-DOF Kinematic Diagram">
 </div>
 
 
