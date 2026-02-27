@@ -25,12 +25,12 @@ By the end of this laboratory experiment, students will be able to:
 
 ### Kinematic Diagram
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/99f05635-bfa0-4232-a9b1-e1fed063d9d4" width="800" alt="Centered 3-DOF Kinematic Diagram">
+  <img src="https://github.com/user-attachments/assets/99f05635-bfa0-4232-a9b1-e1fed063d9d4" width="800" alt="Centered 6-DOF Kinematic Diagram">
 </div>
 
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/254a2fed-db4b-4518-bcf3-de5bd5c8d077" width="800" alt="Centered 3-DOF Kinematic Diagram">
+  <img src="https://github.com/user-attachments/assets/254a2fed-db4b-4518-bcf3-de5bd5c8d077" width="800" alt="Centered 6-DOF Kinematic Diagram">
 
 
 </div>
