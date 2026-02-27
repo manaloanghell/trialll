@@ -25,8 +25,7 @@ By the end of this laboratory experiment, students will be able to:
 
 ### Kinematic Diagram
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cfefbdbd-0ef9-40b8-b800-2fe4cd79a000" width="800" alt="Centered 3-DOF Kinematic Diagram">
-
+  <img src="https://github.com/user-attachments/assets/dc28d9d2-d8ff-4d09-86a4-94b28b965c9c" width="800" alt="Centered 3-DOF Kinematic Diagram">
 </div>
 
 <div align="center">
@@ -37,7 +36,8 @@ By the end of this laboratory experiment, students will be able to:
 
 ### D-H Parametric Table and Homogeneous Transformation Matrix
 <div align="center">
-  <img src="D-H_Parametric_Table_Homogeneous_Transformation_Matrix/3-DOF_Figure1.jpg" width="800" alt="Centered 3-DOF Kinematic Diagram">
+  <img src="" width="800" alt="Centered 3-DOF Kinematic Diagram">
+  
 </div>
 
 ### Matlab and Python Comparison
