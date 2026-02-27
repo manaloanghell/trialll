@@ -21,7 +21,7 @@ By the end of this laboratory experiment, students will be able to:
   
 ---
 
-<h2 align="center">3-DOF Spherical Manipulator Figure 1</h2>
+<h2 align="center">6-DOF Spherical Manipulator Figure 1</h2>
 
 ### Kinematic Diagram
 <div align="center">
