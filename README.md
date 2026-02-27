@@ -169,10 +169,10 @@ Test Point 4:<br>
     </tr>
     <tr>
       <td align="center">
-        <img src="3-DOF_Spherical_Manipulator_Figure1_Photos/MATLAB/1st_Test_Point.png" width="100%">
+        <img src="https://github.com/user-attachments/assets/f0fd0c15-664c-4602-b902-e1f41ae9c297" width="100%">
       </td>
       <td align="center">
-        <img src="3-DOF_Spherical_Manipulator_Figure1_Photos/python/1st_Test_Point.png" width="100%">
+        <img src="https://github.com/user-attachments/assets/e958574b-4cb3-42dc-a69c-5f9a921bbdc1" width="100%">
       </td>
     </tr>
   </table>
@@ -204,13 +204,12 @@ Test Point 5:<br>
     </tr>
     <tr>
       <td align="center">
-        <img src="3-DOF_Spherical_Manipulator_Figure1_Photos/MATLAB/1st_Test_Point.png" width="100%">
+        <img src="https://github.com/user-attachments/assets/c22f4786-91d0-4bd1-9603-adf106b64822" width="100%">
       </td>
       <td align="center">
-        <img src="3-DOF_Spherical_Manipulator_Figure1_Photos/python/1st_Test_Point.png" width="100%">
+        <img src="https://github.com/user-attachments/assets/72240d60-dbbd-4d08-8885-d6a187858ed9" width="100%">
       </td>
     </tr>
   </table>
 </div>
-
 
