@@ -40,6 +40,12 @@ By the end of this laboratory experiment, students will be able to:
   <img src="https://github.com/user-attachments/assets/dc28d9d2-d8ff-4d09-86a4-94b28b965c9c" width="800" alt="Centered 3-DOF Kinematic Diagram">
   
 </div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a5af2490-e019-46ea-adf2-cff80ad8745a" width="800" alt="Centered 3-DOF Kinematic Diagram">
+  
+</div>
+
+
 
 ### Matlab and Python Comparison
 
