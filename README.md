@@ -25,7 +25,8 @@ By the end of this laboratory experiment, students will be able to:
 
 ### Kinematic Diagram
 <div align="center">
-  <img src="Kinematic_Diagram/3-DOF_Figure1.png" width="800" alt="Centered 3-DOF Kinematic Diagram">
+  <img src="https://github.com/user-attachments/assets/41024c70-29fb-44a5-b8ea-aacf8e1d1865" width="800" alt="Centered 3-DOF Kinematic Diagram">
+
 </div>
 
 ### D-H Parametric Table and Homogeneous Transformation Matrix
