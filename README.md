@@ -3,6 +3,9 @@
 ## ROBOTICS 2: LABORATORY 1
 ### Python and Robotics Toolbox Mechanical Manipulator Simulation
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/389c3fa9-53e8-4353-bc68-66adfd02ebcc">
+</div>
 ---
 
 ### Objectives
