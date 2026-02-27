@@ -1,3 +1,6 @@
 # trialll
 
-<img align="right" height="220" src="(https://github.com/user-attachments/assets/0c52ecb9-7e2b-45a6-b788-d2b7525e6554"/> 
+<<p align="center">
+  <img src="(https://github.com/user-attachments/assets/413b8cc6-2ad2-42f7-967e-6e179525f0cd" width="400">
+</p>
+
