@@ -37,12 +37,9 @@ By the end of this laboratory experiment, students will be able to:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/97635406-1806-4f3c-9ee7-545324ed489e" width="800" alt="Centered 6-DOF Kinematic Diagram">
 <h2 align="center">D-H Parametric Figure 1.1</h2>
-</div>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/a5af2490-e019-46ea-adf2-cff80ad8745a" width="800" alt="Centered 6-DOF Kinematic Diagram">
 <h2 align="center">D-H Parametric Figure 1.2</h2>
-  <img src="https://github.com/user-attachments/assets/99f05635-bfa0-4232-a9b1-e1fed063d9d4" width="800" alt="Centered 6-DOF Kinematic Diagram">
-  <h2 align="center">D-H Parametric Figure 1.2</h2>
 </div>
 
 ### Matlab and Python Comparison
