@@ -1,5 +1,24 @@
 <div align="center">
 
+# ⚡🤖 BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING ⚡  
+### CYBERNETICS • INTELLIGENT MACHINES • AUTONOMOUS SYSTEMS • NEXT-GEN AUTOMATION  
+
+<img src="https://img.shields.io/badge/ENGINEERING-MECHATRONICS-0ff?style=for-the-badge&logo=robotframework&logoColor=black" />
+<img src="https://img.shields.io/badge/CORE-ROBOTICS-ff00ff?style=for-the-badge" />
+<img src="https://img.shields.io/badge/TOOLS-PYTHON%20%7C%20MATLAB%20%7C%20AI-00ff99?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SYSTEMS-AUTONOMOUS-red?style=for-the-badge" />
+
+</div>
+
+---
+
+```diff
++ SYSTEM INITIALIZED...
++ LOADING CYBERNETIC ENGINEERING FRAMEWORK...
++ ACCESS GRANTED: MECHATRONICS DIVISION
+
+<div align="center">
+
 # 🤖 BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING  
 ### Robotics • Automation • Intelligent Systems • Innovation  
 
