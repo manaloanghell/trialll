@@ -1,27 +1,66 @@
 <div align="center">
 
-<h1 style="color:#0B1C2D;">
-BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING
-</h1>
+# 🤖 BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING  
+### Robotics • Automation • Intelligent Systems • Innovation  
 
-<p style="font-size:16px; color:#1A1A1A; max-width:900px;">
-Ang <b>Bachelor of Science in Mechatronics Engineering</b> ay isang interdisiplinaryong
-programa na pinagsasama ang <b>mechanical engineering, electronics, control systems,</b>
-at <b>computer programming</b> upang magdisenyo, magsuri, at magpatupad ng mga
-makabagong sistemang awtomatiko at robotiko.
-</p>
-
-<p style="font-size:16px; color:#1A1A1A; max-width:900px;">
-Bilang bahagi ng kursong ito, ang mga mag-aaral ay sinasanay sa <b>robotic kinematics,
-automation, at system simulation</b>, gamit ang mga modernong software tools tulad ng
-<b>MATLAB</b> at <b>Python Robotics Toolbox</b> upang mapagtibay ang ugnayan ng teorya
-at praktikal na aplikasyon.
-</p>
-
-<hr style="width:60%; border:1px solid #1F6AE1;">
+<img src="https://img.shields.io/badge/Discipline-Mechatronics-blue?style=for-the-badge&logo=robotframework" />
+<img src="https://img.shields.io/badge/Focus-Robotics-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tools-MATLAB%20%7C%20Python%20%7C%20Simulation-green?style=for-the-badge" />
 
 </div>
 
+---
+
+## 🔷 Program Overview
+
+The **Bachelor of Science in Mechatronics Engineering (BSMxE)** is an interdisciplinary engineering program that integrates mechanical engineering, electronics, control systems, computer programming, and robotics into a unified field of intelligent system design.
+
+This program develops engineers capable of designing, modeling, simulating, and implementing automated and robotic systems used in modern industries such as manufacturing, aerospace, biomedical systems, artificial intelligence, and smart technologies.
+
+Mechatronics engineers are trained to bridge the gap between mechanical structures and intelligent control — transforming static machines into dynamic, responsive, and autonomous systems.
+
+---
+
+## 🔷 Core Competencies
+
+Students in the program develop strong foundations in:
+
+- ⚙️ Mechanical System Design  
+- 🔌 Electronics and Embedded Systems  
+- 🧠 Control Systems Engineering  
+- 💻 Programming (Python, MATLAB, C/C++)  
+- 🤖 Robotics and Automation  
+- 📊 System Modeling and Simulation  
+- 📐 Kinematics and Dynamics  
+
+---
+
+## 🔷 Robotics Integration
+
+Robotics is a central pillar of the Mechatronics Engineering curriculum. Students explore:
+
+- Forward and Inverse Kinematics  
+- Denavit–Hartenberg (D-H) Modeling  
+- Robotic Manipulator Simulation  
+- Industrial Automation Systems  
+- Multi-DOF Robotic Arm Analysis  
+
+Through laboratory experiments and simulation tools, theoretical concepts are validated using computational platforms such as MATLAB and Python, reinforcing analytical accuracy and practical engineering skills.
+
+---
+
+## 🔷 Engineering Vision
+
+The program aims to produce globally competitive engineers who can:
+
+- Design intelligent robotic systems  
+- Develop automation solutions  
+- Integrate hardware and software seamlessly  
+- Apply analytical and computational tools in solving real-world engineering problems  
+
+---
+
+### 🚀 Engineering the Future Through Intelligent Systems
 
 
 
