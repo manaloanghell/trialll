@@ -4,7 +4,7 @@
 ⚡ TEST POINT ANALYSIS ⚡
 </h1>
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
 
 </div>
 
