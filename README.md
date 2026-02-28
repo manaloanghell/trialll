@@ -1,3 +1,33 @@
+<div align="center">
+
+<h1 style="color:#0B1C2D;">
+BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING
+</h1>
+
+<p style="font-size:16px; color:#1A1A1A; max-width:900px;">
+Ang <b>Bachelor of Science in Mechatronics Engineering</b> ay isang interdisiplinaryong
+programa na pinagsasama ang <b>mechanical engineering, electronics, control systems,</b>
+at <b>computer programming</b> upang magdisenyo, magsuri, at magpatupad ng mga
+makabagong sistemang awtomatiko at robotiko.
+</p>
+
+<p style="font-size:16px; color:#1A1A1A; max-width:900px;">
+Bilang bahagi ng kursong ito, ang mga mag-aaral ay sinasanay sa <b>robotic kinematics,
+automation, at system simulation</b>, gamit ang mga modernong software tools tulad ng
+<b>MATLAB</b> at <b>Python Robotics Toolbox</b> upang mapagtibay ang ugnayan ng teorya
+at praktikal na aplikasyon.
+</p>
+
+<hr style="width:60%; border:1px solid #1F6AE1;">
+
+</div>
+
+
+
+
+
+
+
 <h1 align="center">BACHELOR OF SCIENCE IN MECHATRONICS ENGINEERING</h1>
 
 ## ROBOTICS 2: LABORATORY 1
