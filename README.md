@@ -1,5 +1,17 @@
 <div align="center">
 
+<h1 style="color:#00ffff; letter-spacing:3px;">
+⚡ KINEMATIC DIAGRAM ⚡
+</h1>
+
+<img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="900"/>
+
+</div>
+
+---
+
+<div align="center">
+
 <!-- Cyberpunk Header GIF -->
 <img src="https://media.giphy.com/media/l41lVsYDBC0UVQJCE/giphy.gif" width="900"/>
 
